@@ -3,3 +3,8 @@ F:\Soniczx Documents\Visual Studio 2010\Projects\AppHarborTest\AppHarborTest\bin
 F:\Soniczx Documents\Visual Studio 2010\Projects\AppHarborTest\AppHarborTest\obj\Release\ResolveAssemblyReference.cache
 F:\Soniczx Documents\Visual Studio 2010\Projects\AppHarborTest\AppHarborTest\obj\Release\AppHarborTest.dll
 F:\Soniczx Documents\Visual Studio 2010\Projects\AppHarborTest\AppHarborTest\obj\Release\AppHarborTest.pdb
+F:\Soniczx Documents\GitHub\custom-database-test\AppHarborTest\bin\AppHarborTest.dll
+F:\Soniczx Documents\GitHub\custom-database-test\AppHarborTest\bin\AppHarborTest.pdb
+F:\Soniczx Documents\GitHub\custom-database-test\AppHarborTest\obj\Release\ResolveAssemblyReference.cache
+F:\Soniczx Documents\GitHub\custom-database-test\AppHarborTest\obj\Release\AppHarborTest.dll
+F:\Soniczx Documents\GitHub\custom-database-test\AppHarborTest\obj\Release\AppHarborTest.pdb
